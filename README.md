@@ -94,3 +94,7 @@ Nessa aplicação todos os testes são E2E
 - git init .
 - git commit am
 - gh repo create
+
+## subindo para produção
+
+- usando o https://render.com/
