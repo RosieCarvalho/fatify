@@ -93,4 +93,4 @@ Nessa aplicação todos os testes são E2E
 - gh auth
 - git init .
 - git commit am
--
+- gh repo create
